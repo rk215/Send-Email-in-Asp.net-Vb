@@ -22,7 +22,7 @@ Partial Class _Default
         'AND NOW SEND THE EMAIL TO ABOVE PROVIDED MESSAGE VARIABLE VALUE.
         client.Send(message)
 
-        label5.text = "Email Done Successfully.........."
+        label5.Text = "Email Done Successfully.........."
 
     End Sub
 End Class
